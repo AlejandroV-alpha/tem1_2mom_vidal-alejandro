@@ -173,5 +173,4 @@ docker compose -f $compose exec hiveserver2 beeline -u 'jdbc:hive2://localhost:1
 | 04 | [Informe de segmentación RFM](docs/resultados/pregunta-04.md) | [Captura 1](evidencias/pregunta-04/01_segmentacion_rfm.png) · [Captura 2](evidencias/pregunta-04/02_segmentacion_rfm.png) |
 | 05 | [Informe de ranking de productos](docs/resultados/pregunta-05.md) | [Rentabilidad por categoría](evidencias/pregunta-05/01_ranking_rentabilidad_categoria.png) · [Mayor volumen](evidencias/pregunta-05/02_mayor_volumen.png) · [Menor rentabilidad](evidencias/pregunta-05/03_menor_rentabilidad.png) |
 | 06 | [Informe de descuentos](docs/resultados/pregunta-06.md) | [Rentabilidad por rango de descuento](evidencias/pregunta-06/01_impacto_descuentos_rentabilidad.png) · [Impacto por categoría y subcategoría](evidencias/pregunta-06/02_impacto_descuentos_categoria_subcategoria.png) |
-| 07 | Pendiente | Pendiente |
-| 08 | Pendiente | Pendiente |
+
